@@ -1,4 +1,4 @@
-# IoT Edge Gateway Simulator (RTOS Mock)
+# iot-edge-gateway
 
 A Software-in-the-Loop (SIL) simulation of an IoT Edge Gateway designed to handle multi-protocol sensor telemetry asynchronously. The system mimics a Real-Time Operating System (RTOS) environment to process safety-critical data locally (Edge Computing).
 
